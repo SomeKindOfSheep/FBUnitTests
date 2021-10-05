@@ -3,5 +3,20 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ad72d01_002D327e_002D45b7_002Da5dc_002D80885b136c94/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.PostTest.PostCommentTestMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.PostTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.AuthTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.FriendTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.RoomTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.EventTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.SearchTest.AddFriendTestMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.SearchTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.PhotoTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.PageTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.CommentTest.DeleteCommentTestMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.JobTest.CreateJobTestMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.StreamTest.StillStreaming&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.StreamTest.StillStreamingTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::8155C610-0749-4210-8735-F9EB8444E705::.NETFramework,Version=v4.7.2::CalculatorTesting.tests.FundRaiserTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
