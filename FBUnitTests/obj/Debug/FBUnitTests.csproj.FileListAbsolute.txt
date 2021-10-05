@@ -1,0 +1,14 @@
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\FBUnitTests.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\FBUnitTests.pdb
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\obj\Debug\FBUnitTests.csprojAssemblyReference.cache
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\obj\Debug\FBUnitTests.csproj.CoreCompileInputs.cache
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\obj\Debug\FBUnitTests.csproj.CopyComplete
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\obj\Debug\FBUnitTests.dll
+D:\BelgiumCampus\SWT271\Exercises\FBUnitTests\FBUnitTests\obj\Debug\FBUnitTests.pdb
